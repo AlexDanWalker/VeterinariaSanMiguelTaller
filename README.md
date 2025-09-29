@@ -119,7 +119,9 @@ Para historial médico de mascota se solicita su ID desde el menú principal
 ## 8 Diagramas UML
 
 • Diagrama de Clases UML
-[Agrega aquí la imagen o link al diagrama]
+![Duml](https://github.com/user-attachments/assets/399a7c87-c4d6-42bf-9885-97cede951359)
+
 
 • Diagrama de Casos de Uso UML
-[Agrega aquí la imagen o link al diagrama]
+
+![CUML](https://github.com/user-attachments/assets/a24e03ba-4f6e-4478-9680-dbb338a7ff0f)
